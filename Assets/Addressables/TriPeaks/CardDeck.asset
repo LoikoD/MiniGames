@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756eb5a896287584ebab9dde31623a28, type: 3}
+  m_Name: CardDeck
+  m_EditorClassIdentifier: 
+  FullDeck:
+  - _card:
+      _value: 12
+      _suit: 0
+    _sprite: {fileID: 1551388968, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 0
+      _suit: 0
+    _sprite: {fileID: 1066745149, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 1
+      _suit: 0
+    _sprite: {fileID: 1633309888, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 2
+      _suit: 0
+    _sprite: {fileID: -973903673, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 3
+      _suit: 0
+    _sprite: {fileID: -602163576, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 4
+      _suit: 0
+    _sprite: {fileID: 203010397, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 5
+      _suit: 0
+    _sprite: {fileID: -595304005, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 6
+      _suit: 0
+    _sprite: {fileID: -1964102196, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 7
+      _suit: 0
+    _sprite: {fileID: 1959714749, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 8
+      _suit: 0
+    _sprite: {fileID: -1953641391, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 9
+      _suit: 0
+    _sprite: {fileID: -1128181389, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 10
+      _suit: 0
+    _sprite: {fileID: 1040874283, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 11
+      _suit: 0
+    _sprite: {fileID: -1453080038, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 12
+      _suit: 3
+    _sprite: {fileID: -385367177, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 0
+      _suit: 3
+    _sprite: {fileID: 209969586, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 1
+      _suit: 3
+    _sprite: {fileID: 1705756087, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 2
+      _suit: 3
+    _sprite: {fileID: -1044959707, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 3
+      _suit: 3
+    _sprite: {fileID: -402811168, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 4
+      _suit: 3
+    _sprite: {fileID: 2117939853, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 5
+      _suit: 3
+    _sprite: {fileID: -1055692505, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 6
+      _suit: 3
+    _sprite: {fileID: 168114545, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 7
+      _suit: 3
+    _sprite: {fileID: -1387222387, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 8
+      _suit: 3
+    _sprite: {fileID: -73283380, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 9
+      _suit: 3
+    _sprite: {fileID: 1904996018, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 10
+      _suit: 3
+    _sprite: {fileID: -72532508, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 11
+      _suit: 3
+    _sprite: {fileID: -2145727289, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 12
+      _suit: 2
+    _sprite: {fileID: -254042113, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 0
+      _suit: 2
+    _sprite: {fileID: -378401297, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 1
+      _suit: 2
+    _sprite: {fileID: 780995873, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 2
+      _suit: 2
+    _sprite: {fileID: -1210983143, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 3
+      _suit: 2
+    _sprite: {fileID: 2117022639, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 4
+      _suit: 2
+    _sprite: {fileID: 1033421588, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 5
+      _suit: 2
+    _sprite: {fileID: 403059456, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 6
+      _suit: 2
+    _sprite: {fileID: 1079151973, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 7
+      _suit: 2
+    _sprite: {fileID: 1108288999, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 8
+      _suit: 2
+    _sprite: {fileID: 23643433, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 9
+      _suit: 2
+    _sprite: {fileID: 1836061776, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 10
+      _suit: 2
+    _sprite: {fileID: 1919984483, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 11
+      _suit: 2
+    _sprite: {fileID: -805694823, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 12
+      _suit: 1
+    _sprite: {fileID: -307499283, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 0
+      _suit: 1
+    _sprite: {fileID: -1357610465, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 1
+      _suit: 1
+    _sprite: {fileID: -155982189, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 2
+      _suit: 1
+    _sprite: {fileID: -1838145286, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 3
+      _suit: 1
+    _sprite: {fileID: 1765650811, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 4
+      _suit: 1
+    _sprite: {fileID: 1342404680, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 5
+      _suit: 1
+    _sprite: {fileID: -1449835373, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 6
+      _suit: 1
+    _sprite: {fileID: -1518713364, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 7
+      _suit: 1
+    _sprite: {fileID: -1635066028, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 8
+      _suit: 1
+    _sprite: {fileID: -1010904912, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 9
+      _suit: 1
+    _sprite: {fileID: 58515798, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 10
+      _suit: 1
+    _sprite: {fileID: -994981361, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  - _card:
+      _value: 11
+      _suit: 1
+    _sprite: {fileID: -1052971864, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}
+  BackSprite: {fileID: 279557950, guid: f77fac5e4a5cde04ab4779c220bda619, type: 3}

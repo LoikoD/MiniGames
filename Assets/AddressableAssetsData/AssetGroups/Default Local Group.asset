@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 6f9e15a3f4b299d418f4b46b95dbe652
+  m_SerializeEntries:
+  - m_GUID: 1269cf6eb00dac845a8e668822f7f2f8
+    m_Address: Assets/Addressables/ClickerMainCanvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18d748745f680624f81419dca26c0192
+    m_Address: Assets/Addressables/MenuCanvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 263f23cce9a15234c97a34878f711a19
+    m_Address: Assets/Addressables/TriPeaks/TriPeaksDynamicCanvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 271e41421011fce41b6b5b5178228a34
+    m_Address: Assets/Addressables/Curtain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4824a4fc5d6a5c04aa42da4ef7704ac5
+    m_Address: Assets/Addressables/TriPeaksMainCanvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae1d24a452957e6469464f89b641d5dd
+    m_Address: Assets/Addressables/EndGameCanvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c27199e9c9c045d4399257c5853e6faf
+    m_Address: Assets/Addressables/TriPeaksUICanvas Variant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7058920d2fa647438b6d6d78e0b8fd2
+    m_Address: Assets/Addressables/ClickerUICanvas Variant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d50cf747d64f8624c98e81bd00d6575b
+    m_Address: Assets/Addressables/CardDeck.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecd6a6356803d1648a90ddedf3efd41b
+    m_Address: Assets/Addressables/SceneList.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f220bcd0f2ed0b54aa2c0af5dbbf5515
+    m_Address: Assets/Addressables/AssetReferencesData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b95d1b4b1041e54428e8e900d64c3ffa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cb04503cb8f5fc445a29a39e3eaf3537, type: 2}
+    - {fileID: 11400000, guid: 52c7b359d81e65449b412a1d35c04c29, type: 2}
